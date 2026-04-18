@@ -9,7 +9,7 @@ Our main project is [mise](https://github.com/jdx/mise), a development environme
 en.dev is supported by members and sponsors. That support makes it possible to keep maintaining mise, shipping releases, improving docs, supporting the community, and building new tools in the open.
 
 - Sponsor on GitHub: [github.com/sponsors/jdx](https://github.com/sponsors/jdx)
-- Join as a member: [members.en.dev](https://members.en.dev)
+- Join as a member: [en.dev](https://en.dev)
 
 ## Projects
 
