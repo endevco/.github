@@ -16,6 +16,6 @@ en.dev is supported by members and sponsors. That support makes it possible to k
 - [mise](https://github.com/jdx/mise) - manage languages, CLIs, tasks, and project environments
 - [aube](https://github.com/endevco/aube) - a fast Node.js package manager
 - [usage](https://github.com/jdx/usage) - a specification for CLIs, help output, and shell completions
-- [fnox](https://jdx.dev/) - encrypted secrets for local development and remote environments
-- [hk](https://jdx.dev/) - fast git hooks and project linting
-- [pitchfork](https://jdx.dev/) - process management for local development services
+- [fnox](https://github.com/jdx/fnox/) - encrypted secrets for local development and remote environments
+- [hk](https://github.com/jdx/hk/) - fast git hooks and project linting
+- [pitchfork](https://github.com/endevco/pitchfork) - process management for local development services
